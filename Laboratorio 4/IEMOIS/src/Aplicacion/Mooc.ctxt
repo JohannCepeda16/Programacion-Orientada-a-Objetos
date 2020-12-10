@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Mooc
+comment0.text=\r\n\ Clase\ que\ describe\ un\ curso\r\n
+comment1.params=nombre\ area\ objetivo\ distribuidor\ semanas
+comment1.target=Mooc(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\r\n\ @param\ nombre\r\n\ @param\ area\r\n\ @param\ objetivo\r\n\ @param\ distribuidor\r\n\ @param\ semanas\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment2.text=\r\n\ @return\ nombre\r\n
+comment3.params=
+comment3.target=java.lang.String\ getArea()
+comment3.text=\r\n\ @return\ area\r\n
+comment4.params=
+comment4.target=java.lang.String\ getObjetivo()
+comment4.text=\r\n\ @return\ objetivo\r\n
+comment5.params=
+comment5.target=java.lang.String\ getDistribuidor()
+comment5.text=\r\n\ @return\ distribuidor\r\n
+comment6.params=
+comment6.target=int\ getSemanas()
+comment6.text=\r\n\ @return\ semanas\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ @return\ \r\n
+numComments=8

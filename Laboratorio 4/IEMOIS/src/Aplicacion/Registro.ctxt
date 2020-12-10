@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Registro
+comment0.text=\r\n\ Clase\ que\ permite\ llevar\ el\ registro\ de\ las\ excepciones\ en\ un\ arhivo\r\n
+comment1.params=e
+comment1.target=void\ registre(java.lang.Exception)
+comment1.text=\r\n\ Metodo\ que\ registra\ una\ excepcion\ en\ el\ archivo\ de\ texto\r\n\ @param\ exception\ e\r\n
+comment2.params=msg
+comment2.target=void\ showMessage(java.lang.String)
+comment2.text=\r\n\ Metodo\ que\ permite\ la\ comunicacion\ con\ el\ usuario\ al\ presentarse\ un\ error\r\n
+numComments=3

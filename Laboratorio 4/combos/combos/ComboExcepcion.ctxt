@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ComboExcepcion
+comment0.text=\r\n\ Clase\ de\ excepciones\ para\ los\ combos\ y\ productos\r\n\ \r\n\ @autor\ Maria\ Jose\r\n\ @author\ Johann\ Cepeda\r\n
+comment1.params=msg
+comment1.target=ComboExcepcion(java.lang.String)
+numComments=2

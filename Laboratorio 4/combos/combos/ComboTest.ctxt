@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ComboTest
+comment1.params=
+comment1.target=ComboTest()
+comment2.params=
+comment2.target=void\ setUp()
+comment3.params=
+comment3.target=void\ tearDown()
+comment4.params=
+comment4.target=void\ deberiaCalcularElCostoDeUnCombo()
+comment5.params=
+comment5.target=void\ deberiaLanzarExcepcionSiElComboNoTieneProductos()
+comment6.params=
+comment6.target=void\ deberiaLanzarExcepcionSiNoSeConoceElPrecioDeUnProducto()
+comment7.params=
+comment7.target=void\ deberiaLanzarExcepcionSiNoSeConoceUnProducto()
+comment8.params=
+comment8.target=void\ deberiaDarElCostoPorOmisionDeUnCombo()
+numComments=9
